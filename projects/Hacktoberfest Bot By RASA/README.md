@@ -9,7 +9,7 @@ With an intention of introducing RASA to those folks of Nepali AI Community who 
 
 ## To Begin With...
 - Install rasa with ``` pip3 install rasa ```
-- Now If You Want To Run This Bot, Clone This Repo, Navigate To The Repo In Your Terminal. Now ``` rasa shell ``` is all you need there.
+- Now If You Want To Run This Bot, Clone This Repo, Navigate To ```projects/Hacktoberfest Bot By RASA``` In Your Terminal. Now ``` rasa shell ``` Is All You Need To Begin From There.
 - RASA also provides an interactive UI session you can run in your browser, giving you power to control and manage slots and intents passed. Hit the command ``` rasa x ``` right away!
 
 - If You Want To Begin Building From Scratch, Initialize a basic pretrained rasa bot: ``` rasa init ```.
